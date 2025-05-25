@@ -32,5 +32,6 @@
 - 🧑‍💻 [AdrianBdz](https://github.com/AdrianBdz)
 - 🧑‍💻 [Joaquin292929](https://github.com/Joaquin292929)
 - 🧑‍💻 [gabrieldemariana](https://github.com/gabrieldemariana)
+- 🧑‍💻 [spmtnz](https://github.com/spmtnz)
 - 🧑‍💻 [Miguel-Angel-Laurero](https://github.com/Miguel-Angel-Laurero)
 - 🧑‍💻 [GRXcoding](https://github.com/GRXcoding)
